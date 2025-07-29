@@ -2,7 +2,7 @@
 
 This project contains a set of automated tests to validate the consistency, structure, and correctness of payroll data across multiple Excel files (`GTN.xlsx`, `Payrun.xlsx`) and the `mapping.json` file.
 
-### 🔧 Technologies Used
+### Technologies Used
 - Python 3.10+
 - `pandas` for data handling
 - `unittest` for testing
@@ -11,7 +11,7 @@ This project contains a set of automated tests to validate the consistency, stru
 
 ---
 
-## 📂 Folder Structure
+## Folder Structure
 
 Each folder contains:
 - `GTN.xlsx`
@@ -21,10 +21,10 @@ Each folder contains:
 
 ---
 
-## ✅ How to Run
+##  How to Run
 
-1. ✅ Make sure you have Python 3.10+ installed
-2. ✅ Install required packages:
+1. Make sure you have Python 3.10+ installed
+2. Install required packages:
 
 ```bash
 pip install -r requirements.txt
